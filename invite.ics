@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PBJ Holiday Party//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:pbj-contest-20261208@deysee413-source.github.io
+DTSTAMP:20261014T000000Z
+DTSTART:20261209T010000Z
+DTEND:20261209T030000Z
+SUMMARY:Annual PB&J Contest
+LOCATION:Keller Williams North Seattle\, 10700 Meridian Ave N #100\, Seattle\, WA
+DESCRIPTION:Our biggest PB&J Contest yet: 1\,500+ sandwiches for Seattle's Union Gospel Mission. Networking\, appetizers and beverages from 5:00 pm.
+URL:https://deysee413-source.github.io/pbj-holiday-party/
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Annual PB&J Contest tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR
